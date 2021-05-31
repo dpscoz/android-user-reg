@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">User Register</string>
+
+    <!-- config -->
+    <string name="ip">192.168.100.8</string>
+    <string name="port">8080</string>
+    <string name="api">/users</string>
+
+    <!-- user detail -->
+    <string name="user_detail">User Detail </string>
+    <string name="user_detail_ID">User Detail #</string>
+    <string name="user_name">User Name </string>
+    <string name="birthday">Birthday </string>
+    <string name="date_mask">__/__/____ </string>
+    <string name="save">Save</string>
+    <string name="user_updated">User updated</string>
+    <string name="please_fill">Please fill all the fields</string>
+
+    <!-- delete user -->
+    <string name="delete_user">Delete User</string>
+    <string name="delete_this_user">Delete this user?</string>
+    <string name="delete">Delete</string>
+    <string name="user_deleted">User deleted</string>
+
+    <!-- main activity -->
+    <string name="select_picture">Select Picture</string>
+    <string name="user_saved_success">User saved with success!</string>
+
+
+</resources>
